@@ -8,5 +8,5 @@ This assignment will get you set up and rolling with a basic project. By the end
 
 ### Project Repository
 
-  - [Project Repository](https://github.com/April-2022-LC-LiftOff/TeamSkillShare)
+   [Project Repository](https://github.com/April-2022-LC-LiftOff/TeamSkillShare)
 
